@@ -9,3 +9,8 @@ class2 {
 	branch:test,
 	node:js;
 }
+class3 {
+	root:3,
+	branch:test,
+	node:js;
+}
