@@ -19,6 +19,8 @@ class5 {
 	branch:test,
 	node:js..;
 }
+#This is a comment to test extra line condition.
+#This is second line for same purpose.
 class4 {
 	root:4-5,
 	branch:test-master,
