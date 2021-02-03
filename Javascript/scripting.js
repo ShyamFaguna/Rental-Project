@@ -5,7 +5,7 @@ class {
 	node:js;
 }
 class2 {
-	root:2,
+	root:2-2,
 	branch:test,
 	node:js;
 }
