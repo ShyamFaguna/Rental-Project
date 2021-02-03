@@ -29,3 +29,8 @@ class6 {
 	branch:test,
 	node:js..;
 }
+class6 {
+	root:7,
+	branch:test,
+	node:js..;
+}
