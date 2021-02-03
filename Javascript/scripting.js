@@ -20,7 +20,7 @@ class5 {
 	node:js..;
 }
 class4 {
-	root:4,
+	root:4-5,
 	branch:test-master,
 	node:js..;
 }
