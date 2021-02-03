@@ -30,7 +30,7 @@ class6 {
 	node:js..;
 }
 class6 {
-	root:7-8-9-11,
+	root:7-8-9-10-11,
 	branch:test,
 	node:js..;
 }
