@@ -1,7 +1,7 @@
 Add the scripting here..
 class {
 	root:1,
-	branch:test,
+	branch:test-remote,
 	node:js;
 }
 class2 {
