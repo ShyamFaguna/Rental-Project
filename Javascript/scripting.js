@@ -15,14 +15,14 @@ class3 {
 	node:js..;
 }
 class5 {
-	root:5,
+	root:5-6,
 	branch:test,
 	node:js..;
 }
 #This is a comment to test extra line condition.
 #This is second line for same purpose.
 class4 {
-	root:4-5,
+	root:4-5-6,
 	branch:test-master,
 	node:js..;
 }
