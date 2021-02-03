@@ -16,10 +16,6 @@ class3 {
 }
 class4 {
 	root:4,
-<<<<<<< HEAD
 	branch:master-test,
-=======
-	branch:test,
->>>>>>> test_branch
 	node:js..;
 }
