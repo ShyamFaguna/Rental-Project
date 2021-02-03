@@ -14,8 +14,18 @@ class3 {
 	branch:test,
 	node:js..;
 }
+class5 {
+	root:5,
+	branch:test,
+	node:js..;
+}
 class4 {
 	root:4,
+	branch:test-master,
+	node:js..;
+}
+class6 {
+	root:6,
 	branch:test,
 	node:js..;
 }
