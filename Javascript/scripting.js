@@ -10,7 +10,7 @@ class2 {
 	node:js;
 }
 class3 {
-	root:3,
+	root:3-4,
 	branch:test,
-	node:js;
+	node:js..;
 }
